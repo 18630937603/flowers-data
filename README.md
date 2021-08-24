@@ -1,5 +1,7 @@
 # vision
 
+用Vue2和Echarts5做的一个展示仿真花卉销售情况的图表
+
 ## Project setup
 ```
 npm install

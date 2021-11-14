@@ -2,6 +2,8 @@
 
 用Vue2和Echarts5做的一个展示仿真花卉销售情况的图表
 
+第一次接触前端时做的，太垃圾，别看了
+
 ## Project setup
 ```
 npm install
